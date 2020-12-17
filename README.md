@@ -4,6 +4,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/dtsehl/dtsehl?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
+- I'm [AWS Certified](https://www.youracclaim.com/badges/6a4559ce-a1c0-4fe6-a8d2-ae75fcc4ff6d/public_url)!
 - From Illinois, but worked in :cn: 5 years: 你好！
 - :student: Turing School of Software & Design, 2020
 - I’m currently learning `Docker` `python` `golang` `Kubernetes` `AWS` `dbt`
