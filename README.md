@@ -6,7 +6,6 @@
 
 - I'm [AWS Certified](https://www.youracclaim.com/badges/6a4559ce-a1c0-4fe6-a8d2-ae75fcc4ff6d/public_url)!
 - From Illinois, but worked in :cn: 5 years: 你好！
-- :student: Turing School of Software & Design, 2020
 - 🔎 [LinkedIn](https://www.linkedin.com/in/danielsehl/)
 - Pronouns: he/him
 - Wishing someday post-COVID to expand on the list below of countries I've traveled to: <br>
